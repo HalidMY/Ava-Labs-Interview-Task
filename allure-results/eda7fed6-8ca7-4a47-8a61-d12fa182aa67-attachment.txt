@@ -1,5 +1,0 @@
-Navigating to Redfin Home Page
-Successfully navigated to Redfin Home Page
-Redfin Home Page is displayed
-Entering search post code in search box
-Search Results Page is displayed
