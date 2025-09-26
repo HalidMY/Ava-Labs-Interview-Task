@@ -74,7 +74,6 @@ export default class BasePage {
 
       await this.humanJitter();
       await this.page.reload({ waitUntil: "domcontentloaded" });
-      // Try consent again after reload, just in case
       await this.handleConsent();
     }
   }
